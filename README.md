@@ -4,6 +4,6 @@
   .html  
   .tailwind
   ## installations🔥  
-  https://github.com/Worketyamo-Students/Login_page_with_tailwind
+  https://github.com/Worketyamo-Students/login-layout-tailwind
   ## contributions✨
   @Ulrichdevp  
